@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "nft-weapp",
+  "description": "The weapp of ckb nft",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
